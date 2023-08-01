@@ -1,0 +1,20 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 6%;
+}
+
+.membership-card-title{
+    margin-top: 4%;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+}
+
+.membership-card-subtitle{
+    color: white;
+    width: 60%;
+    font-weight: 300;
+}

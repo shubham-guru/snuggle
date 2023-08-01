@@ -1,0 +1,9 @@
+.navLink{
+    margin: 5px;
+    color: #FFF !important;
+    font-family: 'Poppins', sans-serif;
+    transition: 1s;
+}
+.navLink:hover{
+    font-weight: bold;
+}

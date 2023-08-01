@@ -1,0 +1,23 @@
+.mainSpace{
+    width: 100%;
+}
+.containerStyle {
+    text-align: center;
+    color: #fff;
+    padding-inline: 50px;
+    line-height: 64px;
+    background-color: #000;
+    padding: 0 !important;
+}
+.heading{
+    color: #fff !important;
+}
+.thirdBg{
+    background-image: url('../assets/thirdBg.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: contain;
+    padding: 20%;
+    position: absolute;
+    right: 0;
+}

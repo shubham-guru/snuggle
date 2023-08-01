@@ -1,0 +1,16 @@
+.footer-container{
+    background-color: white;
+}
+
+.read-more-btn{
+    border-radius: 50px;
+    text-transform: uppercase;
+    padding: 5px 20px ;
+    font-weight: 500;
+    border-color: gray !important;
+}
+
+.read-more-btn:hover{
+    background-color: black ;
+    color: white !important;
+}

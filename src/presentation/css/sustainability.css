@@ -1,0 +1,74 @@
+.sustainability-title{
+    color: #FFF !important;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 2em !important;
+    position: relative;
+    top: 750px;
+}
+
+.big-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url('../assets/sustainabilityBigImg.png');
+    background-size: 100% 46%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    top: 600px;
+}
+
+.sustainability-img-text{
+    color: white;
+    font-size: 20px;
+    margin-left: -30%;
+    font-weight: 500;
+    width: 51%;
+    text-align: left;
+}
+.factText{
+    position: absolute;
+    top: 680px;
+    left: 30px;
+    font-size: 5em !important;
+}
+.earthImg{
+    position: absolute;
+    top: 740px;
+    left: 50px;
+    z-index: 10;
+}
+.small-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url('../assets/sustainabilitySmallImg.png');
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    top: 630px;
+}
+
+.sustainability-bottom-text{
+    color: white;
+    margin-top: 600px;
+    font-size: 46px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+.arrow{
+    position: absolute;
+    top: -80px;
+    left: -30px;
+    transform: rotate(-0.1turn);
+}
+
+.span-txt{
+    color:'red'
+}

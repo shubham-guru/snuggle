@@ -1,0 +1,13 @@
+.imageGridCol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 280px;
+}
+.imageGridText{
+    color: #fff !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold !important;
+    text-align: left;
+    font-size: 3.5em !important;
+}

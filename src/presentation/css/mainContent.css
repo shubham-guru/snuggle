@@ -1,0 +1,49 @@
+.mainRowStyle {
+  align-items: center;
+}
+.headingText {
+  color: #fff !important;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  text-align: left;
+  font-size: 4em !important;
+  line-height: 80px !important;
+}
+.mainbg {
+  background-image: url("../assets/headBg.png");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: contain;
+  /* padding: 5%; */
+}
+.mainImg {
+  position: relative;
+  right: -100px;
+}
+.headingCol{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.joinBtn{
+    background-color: #FFFDD2;
+    font-family: 'impact';
+    letter-spacing: 2px;
+    width: 10em;
+    height: 3em;
+    font-size: 15px;
+    border: none;
+    z-index: 10;
+}
+.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover{
+    color: #444;
+}
+.secondBg{
+    background-image: url("../assets/secondBg.png");
+    background-size: 90% 120%;
+    background-repeat: no-repeat;
+    background-position: contain;
+    padding: 20%;
+    position: absolute;
+    top: 300px;
+}
